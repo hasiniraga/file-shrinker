@@ -1,5 +1,4 @@
-# Text-file-compressor
-This is a text file compressor based on Huffman coding algorithm
+# File Shrinker
 
 This project is based on Huffman Coding, a lossless, bottom-up compression algorithm. It can compress and decompress any text files.
 
